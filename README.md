@@ -5,9 +5,7 @@ This is a image generator web application built with Node.js and Express that us
 You just need to type your text prompts, and watch Fotor's AI text-to-image generator bring it to life in a matter of seconds. You can use it to create realistic face images﻿, 3D and anime characters, paintings, and digital art of any type. 
 
 # dependencies
-npm install
-npm i express openai dotenv
-npm i -D nodemon
+npm install, npm i express openai dotenv, npm i -D nodemon
 
 # Images 
 
